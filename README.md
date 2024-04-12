@@ -62,4 +62,11 @@ FINAL NOTES:
 	-To leave on client side send the message "close" and the server should respond, due to errors or other messages being sent through the message may need to be send multiple times 
 	-In TEST folder there are just lines I didnt properly use in the main code, will NOT work if run i think 
 	-THIS WAS MY FIRST THINGY so if it dont work IT AINT MY FAULT :(
- 
+
+ # RECOMEND TO USE
+ Server and client side I reccomend using
+RECOMENDED SERVERS:
+"serverV3.py"
+
+RECOMENDED CLIENTS:
+"clientV3.py"
