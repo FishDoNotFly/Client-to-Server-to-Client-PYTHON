@@ -1,6 +1,7 @@
-# Client-to-Server-to-Client-PYTHON
+# Client-to-Server-to-Client
 Send data/messages from client to a server and then to a separate client in python :)
 
+# Tutorial
 HOW TO RUN TUTORIAL REAL QUICK!
 
 Both the server and client script can then be run from the Command prompt (in Windows)
@@ -48,13 +49,11 @@ OR
 
 If it is working after the first message from the client side the message
 "
-  # # # # # # #
   New user receiving data (Test)
   TO LOAD MESSAGES OUTPUT *.* (Fullstop)
   LIMIT is 100 users
   SERVER 3 ONLY WORKDS WITH CLIENT V3
   by zach :)
-  # # # # # # #
 "
 
 FINAL NOTES:
